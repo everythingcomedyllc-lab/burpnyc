@@ -1,0 +1,9 @@
+{
+  "name": "burpnyc",
+  "version": "1.0.0",
+  "private": true,
+  "description": "BURPNYC storefront with Stripe Checkout on Vercel",
+  "dependencies": {
+    "stripe": "^16.2.0"
+  }
+}
